@@ -2,6 +2,8 @@
 
 > **Categoria:** Conversão · **impacto alto**
 > Medir se a página permite conversão sem exigir criação de conta prévia. Quando forçada antes do teste, a conta reduz engagement pré-conversão.
+>
+> 🇺🇸 [English version](../../principles/conversion/no-forced-account.md)
 
 Visitantes que precisam criar conta antes de agir frequentemente abandonam a página. A razão não é a fraqueza da oferta, mas o atrito da conta entra ANTES do benefício ser experimentado. Este princípio verifica: o visitante consegue converter (enviar formulário, acessar trial, fazer compra) sem obrigatoriamente criar login.
 

@@ -2,6 +2,8 @@
 
 > **Categoria:** Conversão · **impacto alto**
 > Por que banners, modais e pop-ups que cobrem conteúdo ou CTA na chegada reduzem conversão. Como detectar, corrigir e o que a auditoria mede.
+>
+> 🇺🇸 [English version](../../principles/conversion/no-blocking-interstitial.md)
 
 O visitante chega à sua página e vê de primeira o que você quer que ele veja — ou vê um obstáculo? Pop-ups, banners e modais que cobrem conteúdo ou botões de ação na chegada transformam a página em labirinto. O resultado é abandono antes mesmo da leitura. Compliance (faixa discreta de cookies) é aceitável; cobertura de CTA e conteúdo é predação de conversão.
 

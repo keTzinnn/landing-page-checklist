@@ -2,6 +2,8 @@
 
 > **Categoria:** Hierarquia Visual · **impacto médio-alto**
 > Acima da dobra sobrecarregada, a mensagem central se perde. Entenda como medir e reduzir densidade visual.
+>
+> 🇺🇸 [English version](../../principles/visual-hierarchy/uncluttered-above-the-fold.md)
 
 Os primeiros milissegundos acima da dobra são críticos — é ali que o visitante decide 'fico ou saio'. Uma dobra sobrecarregada de texto, botões, imagens e widgets de chat confunde. O visitante não sabe por onde começar, qual mensagem é central, o que fazer primeiro. Density — o número de elementos interativos, linhas de texto e áreas visuais — diluem a hierarquia. Uma dobra limpa, com headline claro, imagem forte e um CTA isolado, permite compreensão imediata.
 

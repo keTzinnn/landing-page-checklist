@@ -2,6 +2,8 @@
 
 > **Categoria:** Conversão · **impacto alto**
 > Pixel ou analytics não instalados deixam você escalando tráfego às cegas. O que é medição instalada, como verificar a sua página e por que é recomendação, não nota.
+>
+> 🇺🇸 [English version](../../principles/conversion/measurement-installed.md)
 
 Uma landing page sem analytics configurado é como dirigir de olhos vendados. O visitante clica no botão, desaparece, e você fica sem saber se completou a ação, desistiu no formulário, ou se fechou a aba. Sem esse feedback, cada tentativa de melhorar a conversão é adivinhação — não iteração.
 

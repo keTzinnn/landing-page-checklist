@@ -2,6 +2,8 @@
 
 > **Categoria:** Conteúdo · **impacto médio-baixo**
 > A copy fala a língua do cliente — problemas, desejos e resultados nas palavras do público, não no jargão interno. Mede se a copy ECOA o cliente.
+>
+> 🇺🇸 [English version](../../principles/content/voice-of-customer.md)
 
 Uma landing page que realmente converte não fala consigo mesma — fala com quem está lendo. A diferença entre copy que ecoa o cliente e copy que só explica o produto é a diferença entre uma página que vende e uma que não vende. Este princípio mede se sua headline, seus benefícios e suas objeções respondidas usam os mesmos problemas, dores e vocabulário que o cliente já usa quando procura a solução.
 

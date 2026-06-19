@@ -2,6 +2,8 @@
 
 > **Categoria:** Acessibilidade · **base técnica**
 > Campo sem label ou label invisível confunde leitores de tela e qualquer visitante que entra com zoom/mobile. Teste real de acessibilidade + checklist de erros.
+>
+> 🇺🇸 [English version](../../principles/accessibility/form-field-labels.md)
 
 Um visitante em um celular ampliado — ou usando leitor de tela — chega a um campo de entrada na sua landing. Não há label visível, apenas placeholder cinzento que some quando digita. Ele não sabe o que digitar. Teclado navegador perde o contexto. Visitante cego ouve 'campo de texto' sem saber qual. O campo existe tecnicamente, mas é inútil. Labels acessíveis resolvem isso: texto visível, ligado ao input via atributo 'for', anunciável por leitura de tela.
 

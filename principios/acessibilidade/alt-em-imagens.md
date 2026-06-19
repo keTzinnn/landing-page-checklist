@@ -2,6 +2,8 @@
 
 > **Categoria:** Acessibilidade · **base técnica**
 > Imagens sem alt perdem visitantes cegos e machucam SEO. Como identificar qual imagem precisa de texto alternativo e evitar os erros comuns.
+>
+> 🇺🇸 [English version](../../principles/accessibility/image-alt-text.md)
 
 Sua landing tem uma hero image de um executivo sorrindo com o produto, um gráfico de crescimento, e screenshots do dashboard. Um visitante cego ou com leitura de tela ligada ouve: 'imagem', 'imagem', 'imagem'. Ele não sabe o que vê; a promessa visual da página desaparece. Texto alternativo (atributo alt) é a ponte entre o que é mostrado e quem não consegue ver — e não é detalhe: é conversão perdida e conformidade WCAG.
 

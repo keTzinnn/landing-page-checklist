@@ -2,6 +2,8 @@
 
 > **Categoria:** Velocidade · **técnico**
 > A página carrega rápido. Página lenta espanta o visitante antes de converter.
+>
+> 🇺🇸 [English version](../../principles/speed/fast-loading-page.md)
 
 Um visitante que chega à sua página toma a decisão de ficar ou sair em poucos segundos. Se a página não estiver responsiva durante esse tempo crítico, ele abandona — mesmo que o conteúdo seja excelente. Tempo de carregamento lento é invisível apenas para quem mede a sua própria conexão de banda larga em casa. Para qualquer outro visitante em rede móvel ou não-ideal, é uma barreira concreta.
 

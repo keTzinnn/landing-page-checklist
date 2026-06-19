@@ -2,6 +2,8 @@
 
 > **Categoria:** Persuasão · **impacto contextual**
 > O visitante começa com um micro-compromisso (newsletter, demo grátis) antes de pedir a conversão de alto esforço (compra, contratação).
+>
+> 🇺🇸 [English version](../../principles/persuasion/progressive-commitment.md)
 
 Um pedido inicial de baixo comprometimento cria inércia psicológica: quem concorda em deixar um email ou assistir a um vídeo fica mais propenso a confirmar a próxima ação, mais exigente. É o oposto do padrão errado: pedir a compra (ou lead qualificado, ou trial pago) sem construir a progressão.
 

@@ -2,6 +2,8 @@
 
 > **Categoria:** Hierarquia Visual · **impacto médio-alto**
 > Fonte monótona torna página genérica. Aprenda como escala e peso tipográfico criam hierarquia legível.
+>
+> 🇺🇸 [English version](../../principles/visual-hierarchy/typographic-hierarchy.md)
 
 Tipografia não é decoração — é infraestrutura de compreensão. Headlines em tamanho claro (48-64px), subtítulos em escala média (24-32px), corpo em 16-18px: essa progressão visual cria caminho que o olho segue naturalmente. Quando toda página usa 16px em peso regular, sem variação, a hierarquia desaparece; tudo compete igualmente. Legibilidade melhora, compreensão acelera, e tom do produto fica claro quando tipografia é hierárquica — cada nível de conteúdo tem tamanho/peso consonante com importância.
 

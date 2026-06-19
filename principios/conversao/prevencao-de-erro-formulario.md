@@ -2,6 +2,8 @@
 
 > **Categoria:** Conversão · **impacto alto**
 > Sinalize campos obrigatórios e formato esperado antes do envio para evitar que o visitante descubra erros só ao tentar submeter o formulário.
+>
+> 🇺🇸 [English version](../../principles/conversion/form-error-prevention.md)
 
 Visitante preenche formulário, clica enviar, recebe erro dizendo que um campo é obrigatório ou o formato não é válido. Frustrante. Pior ainda quando o campo estava lá o tempo todo, mas nada indicava que era necessário ou qual formato. Um formulário bem sinalizado reduz esse atrito: campos obrigatórios marcados, formato esperado explicado (ex.: "DD/MM/AAAA" para datas, "11 dígitos" para telefone), validação ao sair do campo quando relevante. Não é decoreba — é respeito ao tempo do visitante.
 

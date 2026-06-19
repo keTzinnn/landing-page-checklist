@@ -2,6 +2,8 @@
 
 > **Categoria:** Confiança · **impacto médio**
 > Visitantes têm medo de perder tempo ou dinheiro. Como oferecer garantia, trial ou resposta à objeção maior para converter.
+>
+> 🇺🇸 [English version](../../principles/trust/risk-reduction.md)
 
 O maior freio de conversão não é 'como funciona?' — é 'e se não funcionar para mim?'. Quando alguém chega a uma landing page de um produto desconhecido, o risco percebido é a primeira barreira. Landing pages que oferecem garantia de dinheiro de volta, trial sem cartão, diagnóstico gratuito ou resposta nítida à objeção principal convertem significativamente mais. Este artigo explora as formas de reduzir risco e como auditá-las.
 

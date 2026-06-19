@@ -2,6 +2,8 @@
 
 > **Categoria:** Conteúdo · **impacto médio-baixo**
 > Verifique se a promessa da headline é sustentada pela copy, design e CTA — sem desconexão que afaste visitantes.
+>
+> 🇺🇸 [English version](../../principles/content/promise-consistency.md)
 
 Uma landing page eficaz começa com uma promessa clara na headline. Mas promessa sem cumprimento é engano. Se o corpo do texto, as seções de benefício, as imagens e o call-to-action não reforçam exatamente aquilo que a headline anunciou, o visitante sente desalinhamento — e abandona.
 

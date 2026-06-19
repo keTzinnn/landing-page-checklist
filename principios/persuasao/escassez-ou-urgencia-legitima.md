@@ -2,6 +2,8 @@
 
 > **Categoria:** Persuasão · **impacto contextual**
 > Identifique se a escassez ou urgência são reais e verificáveis, ou apenas tática de pressão fictícia permanente em sua página.
+>
+> 🇺🇸 [English version](../../principles/persuasion/legitimate-scarcity-or-urgency.md)
 
 Escassez e urgência — estoque limitado, vagas restritas, prazos — são gatilhos psicológicos poderosos. Mas landing pages que usam urgência fictícia e permanente danificam confiança. Este guia diferencia urgência legítima de tática vazia.
 

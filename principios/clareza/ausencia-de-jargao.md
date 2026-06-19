@@ -2,6 +2,8 @@
 
 > **Categoria:** Clareza · **impacto máximo**
 > Jargão técnico afasta visitante. Como auditar se a headline e copy do topo usam a linguagem do cliente, não do engenheiro.
+>
+> 🇺🇸 [English version](../../principles/clarity/no-technical-jargon.md)
 
 Uma página repleta de jargão técnico ou corporatês vazio é uma porta que fecha no rosto do visitante. Quando seu site diz 'Infraestrutura em cloud escalável com arquitetura serverless', o visitante que não é engenheiro desiste antes de chegar ao ponto. Pior: mesmo que ele permaneça, ele não entende o benefício real. A regra é simples: fale a língua que seu cliente fala, não a língua interna da sua empresa. Se o cliente diz 'Preciso de mais espaço pra guardar meus dados', não diga 'Solução de storage distribuído em multi-availability zones'.
 

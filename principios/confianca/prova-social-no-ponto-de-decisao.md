@@ -2,6 +2,8 @@
 
 > **Categoria:** Confiança · **impacto médio**
 > Depoimento bonito em seção isolada não converte tanto quanto perto do botão. Como posicionar prova social.
+>
+> 🇺🇸 [English version](../../principles/trust/social-proof-at-the-decision-point.md)
 
 Uma página pode ter depoimentos incríveis, mas se estão todos numa seção 'Clientes Felizes' acima, enquanto o CTA está lá embaixo isolado, a prova não funciona. O momento crítico é quando o visitante está com a mão sobre o botão, pronto para converter — é aí que um depoimento reforça a confiança. Este princípio aborda o posicionamento estratégico de prova social no ponto de decisão.
 

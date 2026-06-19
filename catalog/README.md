@@ -1,102 +1,103 @@
-# Catálogo dos 53 princípios
+# The 53 principles
 
-Agrupados por categoria, em ordem de impacto. Cada princípio traz o que é e o que verificar.
+Grouped by category, in order of impact. Each one shows what it is and what to check.
 
-> Catálogo **gerado** a partir da base do [UX Audit](https://uxaudit.miaconecta.com.br) — não editar à mão.
+> Catalog **generated** from the [UX Audit](https://uxaudit.miaconecta.com.br) knowledge base — do not edit by hand.
+> 🇧🇷 [Versão em português](README.pt-BR.md)
 
-## Clareza · impacto máximo
+## Clarity · maximum impact
 
-| Princípio | O que verifica |
+| Principle | What it checks |
 |---|---|
-| [Headline com benefício concreto](../principios/clareza/headline-comunica-valor.md) | A headline diz um benefício concreto e específico, não 'corporate speak' vago. |
-| [Proposta de valor clara e estruturada](../principios/clareza/proposta-valor-estruturada.md) | Proposta segue: como o usuário extrai valor + um hook (claim/objeção) + fala com a persona. |
-| [Página que se entende em 5 segundos](../principios/clareza/entendivel-em-5s.md) | Um estranho entende o propósito da página em 5-10s (teste do elevator pitch de 30s). |
-| [Para quem é a página, dito com clareza](../principios/clareza/publico-alvo-explicito.md) | A página nomeia para QUEM ela é (persona/segmento), em vez de falar para 'todos'. |
-| [Linguagem sem jargão técnico](../principios/clareza/ausencia-de-jargao.md) | Headline e copy do topo evitam jargão técnico/interno e 'corporate speak' que o público não usaria. |
-| [Título da aba combinando com a promessa](../principios/clareza/match-titulo-pagina.md) | O <title>/meta da aba e a headline visível contam a mesma promessa (continuidade da aba ao topo). |
+| [Plain language, no technical jargon](../principles/clarity/no-technical-jargon.md) | Technical jargon pushes visitors away. How to check whether your hero headline and copy speak the customer's language, not the engineer's. |
+| [A page you get in 5 seconds](../principles/clarity/understandable-in-5-seconds.md) | Your visitor doesn't read. Within 5-10 seconds they've already decided whether to stay or go. How to check that your page passes the snap elevator-pitch test. |
+| [A headline with a concrete benefit](../principles/clarity/headline-communicates-value.md) | A vague headline doesn't sell. How to build a headline that states a specific, testable benefit instead of generic corporate speak. |
+| [Tab title that matches the promise](../principles/clarity/tab-title-matches-promise.md) | Tab titles disconnected from the headline create confusion. How to check the alignment between the <title> meta tag and the visible content. |
+| [A clear, structured value proposition](../principles/clarity/structured-value-proposition.md) | A confusing value proposition loses the visitor. Clear structure (value + hook + persona) converts; disorganization distracts. How to audit and fix it. |
+| [Who the page is for, said plainly](../principles/clarity/explicit-target-audience.md) | Pages that speak to 'everyone' convert no one. How to name the persona so the right visitor sees themselves on the page. |
 
-## Conversão · impacto alto
+## Conversion · high impact
 
-| Princípio | O que verifica |
+| Principle | What it checks |
 |---|---|
-| [Botão de ação visível sem rolar](../principios/conversao/cta-acima-da-dobra.md) | Existe um CTA alcançável acima da dobra. (posição é objetiva; se converte mais é contextual) |
-| [Texto do botão que vende a ação](../principios/conversao/copy-cta-orientada-acao.md) | Copy do botão é a ação/benefício que cumpre a promessa da headline; não 'Enviar'/'Sign up'. |
-| [Formulário pedindo só o essencial](../principios/conversao/formulario-minimo.md) | Formulário pede só o essencial; microcopy justifica campos sensíveis (ex.: telefone). |
-| [Conversão sem exigir criar conta](../principios/conversao/sem-conta-forcada.md) | Não exige criação de conta obrigatória para converter. |
-| [Botão reaparecendo ao longo da página](../principios/conversao/cta-repetido-em-pagina-longa.md) | Em página longa, o CTA reaparece ao longo do scroll; o usuário não precisa rolar de volta para agir. |
-| [Uma ação principal por seção](../principios/conversao/cta-unico-por-secao.md) | A página converge para UMA ação primária; ofertas concorrentes não competem pela conversão principal. |
-| [Formulário que previne erros antes do envio](../principios/conversao/prevencao-de-erro-formulario.md) | Formulário sinaliza campos obrigatórios e formato esperado antes do erro (não só após o submit falhar). |
-| [Topo sem distrações que tiram o foco](../principios/conversao/sem-distracao-de-saida.md) | Acima da dobra não há links de navegação/menu nem modais que tirem o foco da conversão (landing dedicada, não site). |
-| [Chegada sem pop-up cobrindo o conteúdo](../principios/conversao/sem-interstitial-bloqueante.md) | Nenhum overlay/banner/modal (cookies, newsletter, promo) cobre conteúdo ou CTA na chegada — o visitante vê a página, não um obstáculo. Faixa fina de cookies (compliance) não conta; penaliza quando COBRE conteúdo/CTA. |
-| [Preço ou custo encontrável na página](../principios/conversao/preco-ou-custo-visivel.md) | O visitante encontra preço ou ao menos uma âncora de custo sem sair da página (ou um caminho explícito até ele). |
-| [Ferramenta de medição instalada](../principios/conversao/mensuracao-instalada.md) | Pixel/analytics detectáveis (gtag/GTM/Meta Pixel/GA4) — sem isso o dono da página escala tráfego às cegas. Recomendação no relatório, não nota. |
+| [Button copy that sells the action](../principles/conversion/action-oriented-cta-copy.md) | Button copy names the specific benefit or action and echoes the headline, instead of generic words like Submit or Sign up. |
+| [Action button visible without scrolling](../principles/conversion/cta-above-the-fold.md) | A CTA reachable without scrolling on arrival. Position is objective; effectiveness is contextual and depends on the page and the audience. |
+| [Button that reappears down the page](../principles/conversion/repeated-cta-on-long-pages.md) | Long page, CTA only at the bottom? The visitor scrolls, reads, and now has to scroll back up. Repeating the CTA strategically removes that conversion friction. |
+| [One primary action per section](../principles/conversion/one-primary-action-per-section.md) | Multiple CTAs competing confuse the visitor. When the next step is ambiguous, conversion collapses. |
+| [A form that asks only for the essentials](../principles/conversion/minimal-form.md) | Minimal fields, with microcopy justifying every sensitive question, to cut friction and drop-offs before conversion. |
+| [Measurement tooling in place](../principles/conversion/measurement-installed.md) | Without a pixel or analytics installed, you're scaling traffic blind. What "measurement in place" means, how to check your page, and why it's a recommendation, not a score. |
+| [Price or cost findable on the page](../principles/conversion/price-or-cost-visible.md) | The visitor finds the price or an explicit cost reference without leaving the page, or follows a clear path to it. |
+| [A form that prevents errors before submit](../principles/conversion/form-error-prevention.md) | Flag required fields and expected formats before submit, so the visitor doesn't discover errors only when they try to send the form. |
+| [Converting without forcing account creation](../principles/conversion/no-forced-account.md) | Whether the page lets visitors convert without creating an account first. When account creation comes before the trial, it suppresses pre-conversion engagement. |
+| [A top that's free of focus-stealing distractions](../principles/conversion/no-exit-distractions.md) | Above the fold there are no navigation/menu links or modals pulling focus away from conversion. |
+| [Arrival with no pop-up covering the content](../principles/conversion/no-blocking-interstitial.md) | Why banners, modals, and pop-ups that cover content or the CTA on arrival lower conversion. How to detect and fix them, and what the audit measures. |
 
-## Hierarquia Visual · impacto médio-alto
+## Visual Hierarchy · medium-high impact
 
-| Princípio | O que verifica |
+| Principle | What it checks |
 |---|---|
-| [Botão principal com destaque visual](../principios/hierarquia-visual/cta-primario-destacado.md) | Botão proeminente por tamanho (~2x o corpo) e contraste; visualmente dominante. |
-| [Um foco só no topo da página](../principios/hierarquia-visual/foco-unico-acima-da-dobra.md) | Sem CTAs concorrentes diluindo a atenção acima da dobra. |
-| [Leitura rápida por blocos e títulos](../principios/hierarquia-visual/escaneabilidade.md) | Bullets, subtítulos e blocos curtos permitem leitura rápida. |
-| [Olhar guiado até o botão](../principios/hierarquia-visual/direcao-visual-para-cta.md) | Elementos visuais (espaço em branco, imagem, contraste, encerramento) guiam o olho até o CTA primário. |
-| [Topo arejado, sem sobrecarga](../principios/hierarquia-visual/densidade-acima-da-dobra.md) | Acima da dobra não está sobrecarregada de texto/elementos a ponto de esconder a mensagem central. |
-| [O produto aparecendo de verdade](../principios/hierarquia-visual/visual-do-produto.md) | A página MOSTRA o produto/output (screenshot, preview, demo ou diagrama real), não só o descreve em texto. Para ferramentas/SaaS, VER o resultado torna o valor tangível; descrever sem mostrar deixa o valor abstrato. |
-| [Tipografia que organiza a leitura](../principios/hierarquia-visual/tipografia-hierarquica.md) | Escala/peso/contraste tipográfico criam hierarquia clara (títulos guiam o olho, corpo legível) e tom condizente com o produto. Tipografia chapada faz a página parecer template/genérica. |
-| [Composição com respiro e ritmo](../principios/hierarquia-visual/composicao-e-ritmo.md) | Composição com respiro (whitespace macro) e variação de layout entre seções dá ritmo e sensação premium; seções todas idênticas/centralizadas e apertadas cansam o olho. Recomendação, não erro. |
+| [Composition with Breathing Room and Rhythm](../principles/visual-hierarchy/composition-and-rhythm.md) | Identical, cramped sections tire the eye. A varied layout with room to breathe feels premium and keeps people engaged. |
+| [A Primary Button That Stands Out](../principles/visual-hierarchy/prominent-primary-cta.md) | A visually dominant CTA converts better. Learn what makes a button stand out, why it matters, and how to check yours. |
+| [An Airy Top, Free of Overload](../principles/visual-hierarchy/uncluttered-above-the-fold.md) | When the area above the fold is overloaded, the core message gets lost. Learn how to measure and reduce visual density. |
+| [Guiding the Eye to the Button](../principles/visual-hierarchy/visual-direction-toward-the-cta.md) | Layout, space, and images can all point to the button. Learn how to use visual direction to win more clicks. |
+| [Fast Reading by Blocks and Headings](../principles/visual-hierarchy/scannability.md) | Dense paragraphs drive readers away. Bullets, subheads, and white space let visitors grasp your landing page in seconds. |
+| [A Single Focus at the Top of the Page](../principles/visual-hierarchy/single-focus-above-the-fold.md) | Two equally weighted buttons split the visitor's attention. Learn why focusing on one primary CTA lifts conversion. |
+| [Typography That Organizes the Read](../principles/visual-hierarchy/typographic-hierarchy.md) | A flat, monotone font makes a page feel generic. Learn how type scale and weight create a readable hierarchy. |
+| [Showing the Product for Real](../principles/visual-hierarchy/show-the-product.md) | A real screenshot, demo, or diagram makes the value tangible. Learn what to show and why words without an image don't convince. |
 
-## Confiança · impacto médio
+## Trust · medium impact
 
-| Princípio | O que verifica |
+| Principle | What it checks |
 |---|---|
-| [Prova social visível](../principios/confianca/prova-social-visivel.md) | Depoimentos, logos ou números reais — não só volume genérico. |
-| [Risco do visitante reduzido](../principios/confianca/reducao-de-risco.md) | Garantia, 'sem cartão', trial, ou tratamento da objeção principal. |
-| [Depoimentos com nome real](../principios/confianca/prova-social-especifica.md) | Depoimentos trazem atribuição real (nome, cargo, empresa ou foto), não citações anônimas genéricas. |
-| [Empresa identificada, com contato](../principios/confianca/identidade-e-contato.md) | A página mostra identidade real da empresa (nome, contato/endereço, ou link de empresa), não anonimato total. |
-| [Transparência de preço](../principios/confianca/transparencia-de-preco.md) | Se há oferta/plano, o preço (ou faixa) é visível na página, sem 'fale com vendas' como única opção de descoberta. |
-| [Segurança sinalizada onde pede dados](../principios/confianca/seguranca-visivel.md) | Página de captura serve em HTTPS e, em formulário, sinaliza segurança/uso dos dados próximo ao campo. |
-| [Política de privacidade acessível](../principios/confianca/politica-privacidade-acessivel.md) | Existe link visível para política de privacidade/termos — especialmente quando há captura de dados. |
-| [Prova social perto do botão de decisão](../principios/confianca/prova-social-no-ponto-de-decisao.md) | Prova social posicionada perto do CTA (no momento da decisão), não só num bloco isolado. Recomendação, não nota. |
+| [A named company with a way to reach it](../principles/trust/identity-and-contact.md) | Who's behind this? With no name, address, or contact, visitors assume a scam. How to show you're a real company. |
+| [An easy-to-find privacy policy](../principles/trust/accessible-privacy-policy.md) | Can't find your privacy policy? You're breaking the law and killing trust at the same time. How to make it easy to find. |
+| [Testimonials with a real name attached](../principles/trust/specific-social-proof.md) | A testimonial with no name, role, or company won't convince anyone. What specific social proof is, how to audit yours, and the mistakes that destroy credibility. |
+| [Social proof next to the decision button](../principles/trust/social-proof-at-the-decision-point.md) | A beautiful testimonial in an isolated section won't convert like one right by the button. How to place social proof. |
+| [Visible social proof](../principles/trust/visible-social-proof.md) | Why 'great product' from an anonymous source falls flat. How to use specific, verifiable social proof to build credibility. |
+| [Lowered risk for the visitor](../principles/trust/risk-reduction.md) | Visitors are afraid of wasting time or money. How to offer a guarantee, a trial, or an answer to their biggest objection to convert. |
+| [Security cues where you ask for data](../principles/trust/visible-security.md) | Visitors hesitate to fill out a form with no sign of security. How to show HTTPS and a privacy policy. |
+| [Price transparency](../principles/trust/price-transparency.md) | With no visible price, visitors assume it's expensive or that there's a catch. How to show the price (or a range) to build trust. |
 
-## Persuasão · impacto contextual
+## Persuasion · contextual impact
 
-| Princípio | O que verifica |
+| Principle | What it checks |
 |---|---|
-| [A dor do visitante antes da solução](../principios/persuasao/dor-antes-da-solucao.md) | A copy articula o problema/dor do público antes de apresentar a solução (estrutura PAS/AIDA), criando relevância. |
-| [Benefício com número, não promessa vaga](../principios/persuasao/beneficio-tangivel-quantificado.md) | Ao menos um benefício é concreto/quantificado (número, prazo, resultado), não promessa vaga. Claims superlativos sem lastro factual ('o melhor', 'revolucionário') contam contra — flatulent puffery (Ogilvy). |
-| [Autoridade demonstrada](../principios/persuasao/autoridade-demonstrada.md) | Sinais de autoridade (credenciais, imprensa, certificações, números de clientes) embasam a promessa. |
-| [Urgência legítima, não fabricada](../principios/persuasao/escassez-ou-urgencia-legitima.md) | Se usa escassez/urgência (estoque, vagas, prazo), o limite é concreto e plausível — não 'urgência falsa' permanente. |
-| [Âncora de valor na conversa de preço](../principios/persuasao/ancoragem-de-valor.md) | O valor/preço é ancorado (preço de referência, comparação, 'antes/depois') para enquadrar a percepção. |
-| [Valor entregue antes de pedir algo](../principios/persuasao/reciprocidade-oferta-de-valor.md) | A oferta entrega algo de valor antecipado (material gratuito, diagnóstico, amostra) em troca da ação. |
-| [Pedido inicial pequeno, compromisso gradual](../principios/persuasao/compromisso-progressivo.md) | O pedido inicial é de baixo comprometimento (micro-yes) antes de pedir conversão de alto esforço. |
+| [Anchor the value before the price conversation](../principles/persuasion/value-anchoring.md) | Perceived value depends on the reference point shown first. Prices, comparisons, and before/after framing anchor the decision. |
+| [Demonstrated authority](../principles/persuasion/demonstrated-authority.md) | Visible signals of authority — certifications, press, recognizable clients, hard numbers — reduce uncertainty and build a visitor's trust. |
+| [Lead with a number, not a vague promise](../principles/persuasion/tangible-quantified-benefit.md) | At least one benefit is concrete and quantified (a number, a time frame, a result) — not a vague promise. Superlative claims with nothing behind them count against you. |
+| [Small first ask, commitment that builds](../principles/persuasion/progressive-commitment.md) | The visitor starts with a micro-commitment (newsletter, free demo) before you ask for the high-effort conversion (purchase, contract). |
+| [Name the visitor's pain before the solution](../principles/persuasion/pain-before-the-solution.md) | Copy that sells starts by naming the frustration before it offers the cure. The PAS structure: what the pain is, why it hurts, how to solve it. Without it, the solution has no context. |
+| [Legitimate urgency, not manufactured](../principles/persuasion/legitimate-scarcity-or-urgency.md) | Work out whether the scarcity or urgency on your page is real and verifiable — or just a permanent, fictional pressure tactic. |
+| [Give value before you ask for anything](../principles/persuasion/reciprocity-value-offer.md) | Check whether the landing page offers something of concrete value (a diagnosis, material, sample) before asking for an action or data. Reciprocity drives conversion. |
 
-## Conteúdo · impacto médio-baixo
+## Content · medium-low impact
 
-| Princípio | O que verifica |
+| Principle | What it checks |
 |---|---|
-| [Ganhos do cliente acima de funcionalidades](../principios/conteudo/beneficios-sobre-features.md) | A copy fala do ganho do usuário, não do mecanismo/feature. |
-| [Objeções respondidas na página](../principios/conteudo/tratamento-de-objecoes.md) | A copy antecipa e responde a objeção principal do público (preço, esforço, risco, 'serve pra mim?'). |
-| [Promessa sustentada do título ao botão](../principios/conteudo/consistencia-da-promessa.md) | A promessa da headline é sustentada pela copy e pelo CTA — sem 'bait' que o corpo não cumpre. |
-| [Perguntas frequentes no lugar certo](../principios/conteudo/faq-presente.md) | Há uma seção de perguntas frequentes ou equivalente que resolve dúvidas comuns sem sair da página. |
-| [Texto confortável de ler](../principios/conteudo/legibilidade.md) | Tamanho de fonte, comprimento de linha e contraste favorecem a leitura. |
-| [A voz do cliente na copy](../principios/conteudo/voz-do-cliente.md) | A copy fala a língua do cliente — problemas, desejos e resultados nas palavras do público (voice of customer), não no jargão interno da empresa. NÃO duplica ausencia-de-jargao (que mede ruído); este mede se a copy ECOA o cliente. |
-| [Caminho em passos claros](../principios/conteudo/plano-de-passos.md) | A página mostra o caminho em passos claros (tipicamente 3) do ponto de vista do cliente — do clique ao resultado ('como funciona'). |
+| [Customer gains over features](../principles/content/benefits-over-features.md) | Why "cloud backup" doesn't sell but "sleep easy knowing your data is safe" does. How to avoid the feature-list trap on your landing page. |
+| [Promise held from headline to button](../principles/content/promise-consistency.md) | Check that the headline's promise is backed up by the copy, design and CTA, with no disconnect that pushes visitors away. |
+| [FAQs where they belong](../principles/content/faq-in-the-right-place.md) | A FAQ answers common questions without making the visitor leave the page. What an effective FAQ looks like, how to check yours, and when it's actually needed. |
+| [Text that's comfortable to read](../principles/content/readability.md) | Poor font size, line length and contrast hurt comprehension. We audit your typographic structure against established reading patterns. |
+| [A clear path in steps](../principles/content/how-it-works-steps.md) | The page shows the journey in clear steps (usually 3) from the customer's point of view, from click to result (the "how it works"). |
+| [Objections answered on the page](../principles/content/objection-handling.md) | Copy that anticipates objections doesn't hide them, it answers them before the question even comes up. |
+| [The customer's voice in your copy](../principles/content/voice-of-customer.md) | Your copy speaks the customer's language, their problems, desires and results in the audience's own words, not internal jargon. It measures whether the copy echoes the customer. |
 
-## Velocidade · técnico
+## Speed · technical
 
-| Princípio | O que verifica |
+| Principle | What it checks |
 |---|---|
-| [Página que carrega rápido](../principios/performance/tempo-carregamento.md) | A página carrega rápido (página lenta espanta o visitante antes de converter). |
-| [Página leve](../principios/performance/peso-pagina.md) | Peso e número de requisições da página dentro de limites razoáveis. |
+| [Lightweight page](../principles/speed/page-weight.md) | Lighter pages load faster on slow connections. Trimming bytes from images, scripts, and CSS improves the experience, lowers bounce rate, and lifts conversion — especially on mobile. |
+| [Fast-loading page](../principles/speed/fast-loading-page.md) | The page loads fast. A slow page scares visitors away before they ever convert. |
 
-## Acessibilidade · base técnica
+## Accessibility · technical baseline
 
-| Princípio | O que verifica |
+| Principle | What it checks |
 |---|---|
-| [Contraste de texto adequado](../principios/acessibilidade/contraste-texto.md) | Contraste de texto atende WCAG AA. |
-| [Imagens com texto alternativo](../principios/acessibilidade/alt-em-imagens.md) | Imagens informativas têm texto alternativo. |
-| [Campos de formulário com rótulos](../principios/acessibilidade/labels-em-formularios.md) | Campos de formulário têm labels acessíveis. |
-| [Navegável por teclado](../principios/acessibilidade/navegacao-teclado.md) | Elementos interativos alcançáveis por teclado, com foco visível. |
+| [Images with alt text](../principles/accessibility/image-alt-text.md) | Images without alt text lose blind visitors and hurt your SEO. How to spot which images need alt text and dodge the usual mistakes. |
+| [Adequate text contrast](../principles/accessibility/text-contrast.md) | Low-contrast text pushes away readers and low-vision visitors. How to measure it, why it matters, and the mistakes that cost the most conversions. |
+| [Form fields with labels](../principles/accessibility/form-field-labels.md) | A field with no label, or an invisible one, confuses screen readers and anyone arriving with zoom or on mobile. A real accessibility test plus a checklist of mistakes. |
+| [Keyboard navigable](../principles/accessibility/keyboard-navigation.md) | Visitors who use a keyboard (by disability, preference, or context) get trapped if your page isn't navigable. How to audit it and fix it. |
 
 ---
 
-<sub>**landing-page-checklist** · conteúdo sob [CC BY-SA 4.0](../LICENSE) · mantido por [UX Audit](https://uxaudit.miaconecta.com.br)</sub>
+<sub>**landing-page-checklist** · content under [CC BY-SA 4.0](../LICENSE) · maintained by [UX Audit](https://uxaudit.miaconecta.com.br)</sub>

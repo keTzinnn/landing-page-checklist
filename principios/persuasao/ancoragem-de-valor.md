@@ -2,6 +2,8 @@
 
 > **Categoria:** Persuasão · **impacto contextual**
 > O valor percebido depende do ponto de referência apresentado primeiro. Preços, comparações e "antes/depois" ancoram a decisão.
+>
+> 🇺🇸 [English version](../../principles/persuasion/value-anchoring.md)
 
 Quando um visitante chega à sua landing page, não avalia o preço em vácuo. Ele procura um ponto de referência — um preço anterior, um plano concorrente, um valor "recomendado" — e usa esse número como âncora para enquadrar tudo o que vem depois. Se você não fornece essa âncora, o visitante cria uma própria, frequentemente desfavorável.
 

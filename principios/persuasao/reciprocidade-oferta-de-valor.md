@@ -2,6 +2,8 @@
 
 > **Categoria:** Persuasão · **impacto contextual**
 > Verificar se a landing page oferece algo de valor concreto (diagnóstico, material, amostra) antes de cobrar ação ou dado. Reciprocidade impulsiona conversão.
+>
+> 🇺🇸 [English version](../../principles/persuasion/reciprocity-value-offer.md)
 
 Quando uma landing page oferece valor concreto antes de solicitar uma ação (cadastro, compra, compartilhamento), ativa o princípio psicológico de reciprocidade. O visitante se sente em débito e mais propenso a retribuir. O desafio não é prometer benefício futuro — é entregar algo tangível, verificável, imediatamente acessível.
 

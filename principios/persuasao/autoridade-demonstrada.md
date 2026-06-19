@@ -2,6 +2,8 @@
 
 > **Categoria:** Persuasão · **impacto contextual**
 > Sinais visíveis de autoridade (certificações, imprensa, clientes conhecidos, números concretos) reduzem incerteza e aumentam confiança no navegador.
+>
+> 🇺🇸 [English version](../../principles/persuasion/demonstrated-authority.md)
 
 Pessoas decidem em segundos. Quando veem prova tangível de que você sabe o que faz — imprensa que falou sobre você, clientes reais listados, certificações reconhecidas, números que documentam resultado — o cérebro para de duvidar e avança. Autoridade demonstrada não é sobre parecer importante. É sobre remover a fricção mental que impede a conversão.
 

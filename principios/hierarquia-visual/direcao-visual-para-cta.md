@@ -2,6 +2,8 @@
 
 > **Categoria:** Hierarquia Visual · **impacto médio-alto**
 > Layout, espaço e imagens podem apontar para o botão. Descubra como usar direção visual para aumentar cliques.
+>
+> 🇺🇸 [English version](../../principles/visual-hierarchy/visual-direction-toward-the-cta.md)
 
 Arquitetura visual não é acidente — é orquestração de linhas, espaço e contraste para governar para onde o olho vai. Uma imagem de pessoa olhando ou apontando, um bloco de espaço em branco, uma seta sutil — são gatilhos que dirigem atenção. O CTA não deve estar isolado; deve ser o destino natural do fluxo visual da página. Isto é especialmente poderoso porque funciona no nível pré-consciente — o visitante sente que deve clicar ali, sem saber por quê.
 

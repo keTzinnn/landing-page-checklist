@@ -2,6 +2,8 @@
 
 > **Categoria:** Persuasão · **impacto contextual**
 > Ao menos um benefício é concreto/quantificado (número, prazo, resultado), não promessa vaga. Claims superlativos sem lastro factual contam contra.
+>
+> 🇺🇸 [English version](../../principles/persuasion/tangible-quantified-benefit.md)
 
 Promessas vagas ("melhor solução", "revolucionário", "transformador") não movem conversão. O visitante precisa saber: qual é o resultado em números, prazo ou métrica clara? Quando a copy traduz benefício em quantidades concretas—economia de tempo, redução de custo, aumento de velocidade—o valor tangível reduz fricção e incerteza.
 

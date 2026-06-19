@@ -2,6 +2,8 @@
 
 > **Categoria:** Conversão · **impacto alto**
 > Campos mínimos e microcopy justificam cada pergunta sensível, reduzindo fricção e abandonos antes da conversão.
+>
+> 🇺🇸 [English version](../../principles/conversion/minimal-form.md)
 
 Quanto mais campos um formulário pede, menor a taxa de conclusão. Cada campo adicional é uma barreira psicológica. O princípio do formulário mínimo exige: solicitar só dados realmente necessários, justificar por microcopy campos sensíveis (telefone, CPF, empresa), e reduzir opcionalidade falsa. Usuários sentem menos fricção, abandonam menos, e a conversão sobe.
 

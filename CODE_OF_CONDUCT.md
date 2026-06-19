@@ -1,7 +1,7 @@
-# Código de Conduta
+# Code of Conduct
 
-Este projeto adota o [Contributor Covenant](https://www.contributor-covenant.org/pt-br/version/2/1/code_of_conduct/) como código de conduta.
+This project adopts the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) as its code of conduct.
 
-Em resumo: seja respeitoso, acolhedor e construtivo. Não toleramos assédio, discriminação ou comportamento hostil. Reportes podem ser feitos de forma confidencial pelos canais do projeto.
+In short: be respectful, welcoming, and constructive. We don't tolerate harassment, discrimination, or hostile behavior. Reports can be made confidentially through the project's channels.
 
-Versão completa: https://www.contributor-covenant.org/pt-br/version/2/1/code_of_conduct/
+Full text: https://www.contributor-covenant.org/version/2/1/code_of_conduct/ · 🇧🇷 https://www.contributor-covenant.org/pt-br/version/2/1/code_of_conduct/

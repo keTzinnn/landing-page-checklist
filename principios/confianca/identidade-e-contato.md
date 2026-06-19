@@ -2,6 +2,8 @@
 
 > **Categoria:** Confiança · **impacto médio**
 > Quem está por trás? Sem nome, endereço ou contato, visitante suspeita de golpe. Como mostrar identidade real.
+>
+> 🇺🇸 [English version](../../principles/trust/identity-and-contact.md)
 
 Uma landing page totalmente anônima — sem nome da empresa, sem email de contato, sem endereço ou link social — gera suspeita imediata. O visitante intuitivamente pergunta: 'quem está fazendo isso? por que não mostram?'. Mesmo que o produto seja legítimo, a falta de identidade visível corrói confiança antes da objeção ao produto em si. Este princípio não exige que você coloque endereço físico em destaque; apenas que exista uma forma clara de identificar e contatar a empresa.
 

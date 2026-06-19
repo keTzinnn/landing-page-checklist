@@ -2,6 +2,8 @@
 
 > **Categoria:** Hierarquia Visual · **impacto médio-alto**
 > Parágrafos densos afastam leitores. Bullets, subtítulos e espaço branco permitem que o visitante entenda sua landing em segundos.
+>
+> 🇺🇸 [English version](../../principles/visual-hierarchy/scannability.md)
 
 O visitante não lê landing pages palavra por palavra — ele escaneia. Numa primeira varredura de 3 a 5 segundos, busca: 'Isto é para mim?' e 'Qual é a ação?'. Se encontra parede de texto, seu cérebro desiste. Estrutura visual com títulos curtos, bullets e parágrafos curtos funciona como mapa: o olho pula de ponto em ponto, montando compreensão rápida. Isto não é preferência estética; é neurociência de leitura.
 

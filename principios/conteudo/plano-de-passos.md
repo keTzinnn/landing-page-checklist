@@ -2,6 +2,8 @@
 
 > **Categoria:** Conteúdo · **impacto médio-baixo**
 > A página mostra o trajeto em passos claros (tipicamente 3) do ponto de vista do cliente — do clique ao resultado ('como funciona').
+>
+> 🇺🇸 [English version](../../principles/content/how-it-works-steps.md)
 
 Visitantes que não entendem como usar seu produto abandonam a página. Um plano de passos transforma a abstração em ação concreta: cole a URL → receba o resultado → use o insight. Quando o caminho é visível e numerado, o visitante sente controle e confiança. É a diferença entre "somos software" (genérico) e "você faz X, depois Y, depois Z, e pronto" (tangível).
 

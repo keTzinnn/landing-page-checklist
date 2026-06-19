@@ -2,6 +2,8 @@
 
 > **Categoria:** Confiança · **impacto médio**
 > Depoimento sem nome, cargo ou empresa não convence. O que é prova social específica, como verificar a da sua página e os erros que destroem a credibilidade.
+>
+> 🇺🇸 [English version](../../principles/trust/specific-social-proof.md)
 
 Prova social só funciona quando dá pra acreditar nela. Um depoimento com nome, cargo, empresa ou foto é verificável — o visitante consegue checar que aquela pessoa existe. Uma citação anônima ("cliente satisfeito") pede confiança em vez de construí-la: na prática, vale quase zero.
 

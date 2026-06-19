@@ -2,6 +2,8 @@
 
 > **Categoria:** Confiança · **impacto médio**
 > Visitante não consegue achar política de privacidade? Você está violando lei e matando confiança. Como torná-la fácil de encontrar.
+>
+> 🇺🇸 [English version](../../principles/trust/accessible-privacy-policy.md)
 
 Uma política de privacidade que existe mas está tão escondida que visitante não consegue achar é pior que inútil: viola compliance e amplifica desconfiança. Se alguém tem que fazer 'caça ao tesouro' no rodapé em corpo 8px para encontrá-la, a intenção parecerá velada. Este princípio aborda acessibilidade: não apenas que a política exista, mas que seja fácil de encontrar e legível.
 

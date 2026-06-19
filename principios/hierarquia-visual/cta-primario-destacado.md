@@ -2,6 +2,8 @@
 
 > **Categoria:** Hierarquia Visual · **impacto médio-alto**
 > Um CTA visual dominante converte mais. Saiba o que torna um botão destacado, por que importa e como verificar o seu.
+>
+> 🇺🇸 [English version](../../principles/visual-hierarchy/prominent-primary-cta.md)
 
 O call-to-action é a ponte entre interesse e ação. Se estiver visualmente subordinado a outros elementos — diminuto, pálido, perdido numa floresta de texto — o visitante pode nem notar que há algo para clicar. Um botão primário destacado não é estética gratuita: é o ponto focal que transforma leitura em movimento. Este princípio mede se seu CTA foi pensado para dominar, não para desaparecer.
 

@@ -2,6 +2,8 @@
 
 > **Categoria:** Clareza · **impacto máximo**
 > Uma headline vaga não vende. Como construir uma manchete que diz um benefício específico e testável, em vez de corporate speak genérico.
+>
+> 🇺🇸 [English version](../../principles/clarity/headline-communicates-value.md)
 
 A headline é o primeiro contrato entre a página e o visitante. Quando ela promete valor abstrato ('Transforme seu negócio', 'Soluções inovadoras'), o cérebro do leitor não sabe exatamente o que esperar — e hesita. Quando é específica ('Reduz o tempo de análise de dados em 70%'), o visitante reconhece relevância imediata. A diferença não é de tom: é de clareza cognitiva. Uma headline genérica deixa o trabalho de interpretação para quem já está em dúvida sobre permanecer na página.
 

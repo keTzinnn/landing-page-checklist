@@ -2,6 +2,8 @@
 
 > **Categoria:** Acessibilidade · **base técnica**
 > Visitantes que usam teclado (por deficiência, preferência ou contexto) ficam presos se sua página não é navegável. Como auditar e consertar.
+>
+> 🇺🇸 [English version](../../principles/accessibility/keyboard-navigation.md)
 
 Três cenários: um visitante com lesão motora usa teclado como seu único meio de interação. Outro, experiente, prefere Tab + Enter por velocidade. Um terceiro está em um celular antigo com teclado físico reduzido. Todos dependem de navegação por teclado funcional. Sua landing é hermética? Muitos sites modernos — especialmente em SPA/React mal configurado — fazem foco desaparecer, Tab pula elementos, Enter não ativa botões, e dropdown (com select ou combobox) é inacessível sem mouse. O visitante sai. WCAG AA exige que elementos interativos sejam alcançáveis por teclado e que foco seja sempre visível.
 

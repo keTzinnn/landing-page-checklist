@@ -2,6 +2,8 @@
 
 > **Categoria:** Clareza · **impacto máximo**
 > Páginas que falam para 'todos' convertem ninguém. Como nomeiar a persona e fazer o visitante certo se ver na página.
+>
+> 🇺🇸 [English version](../../principles/clarity/explicit-target-audience.md)
 
 Toda landing page é um diálogo. Quando a copy fala para 'empresas' ou 'usuários' genéricos, o visitante fica em dúvida: 'Será que é para mim?' A incerteza mata a conversão. Quando você nomeia a persona explicitamente — 'Para CTOs em startups que cresceram rápido' ou 'Para copywriters freelancer com clientes B2B' — o leitor certo se vê imediatamente. O leitor errado também sai, o que é bom: economiza seu suporte depois. Especificidade em público-alvo é um filtro que amplifica conversão no segmento certo e reduz ruído.
 

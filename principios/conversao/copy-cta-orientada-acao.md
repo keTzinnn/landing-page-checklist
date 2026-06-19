@@ -2,6 +2,8 @@
 
 > **Categoria:** Conversão · **impacto alto**
 > Copy do botão narra o benefício ou ação específica, alinhada com a headline, em lugar de termos genéricos como Enviar ou Sign up.
+>
+> 🇺🇸 [English version](../../principles/conversion/action-oriented-cta-copy.md)
 
 O texto do botão é a última impressão antes da conversão. Quando a copy do CTA narra o benefício concreto ou a ação específica, ela fecha a promessa feita pela headline e reduz fricção — o visitante sabe exatamente o que acontece ao clicar. "Enviar" ou "Sign up" deixam em aberto.
 

@@ -2,6 +2,8 @@
 
 > **Categoria:** Conteúdo · **impacto médio-baixo**
 > Por que "backup na nuvem" não vende, mas "durma tranquilo sabendo que seus dados estão seguros" vende. Como evitar o erro de features list na sua landing page.
+>
+> 🇺🇸 [English version](../../principles/content/benefits-over-features.md)
 
 A diferença entre vender uma feature e vender o ganho do cliente é sutil, mas ruidosa. "Análise em tempo real" é o que você construiu — "veja problemas antes que seus clientes vejam" é o ganho que o visitante compra. Uma landing page que lista features sem traduzir pra ganho fica parecendo catálogo técnico. Uma que mostra o ganho — o resultado, o alívio, o poder — torna o produto compreensível e desejável.
 

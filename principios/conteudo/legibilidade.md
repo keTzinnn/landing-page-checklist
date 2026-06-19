@@ -2,6 +2,8 @@
 
 > **Categoria:** Conteúdo · **impacto médio-baixo**
 > Fonte, linha e contraste inadequados reduzem compreensão. Auditamos estrutura tipográfica versus padrões de leitura.
+>
+> 🇺🇸 [English version](../../principles/content/readability.md)
 
 Texto ilegível é invisível. Quando o tamanho de fonte, o comprimento de linha ou o contraste falham, o visitante não consegue ler a proposta de valor. A landing page se torna ruído visual, não comunicação.
 

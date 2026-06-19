@@ -2,6 +2,8 @@
 
 > **Categoria:** Hierarquia Visual · **impacto médio-alto**
 > Seções idênticas e apertadas cansam o olho. Layout variado com respiro cria sensação premium e mantém engajamento.
+>
+> 🇺🇸 [English version](../../principles/visual-hierarchy/composition-and-rhythm.md)
 
 Imagine ler uma página onde cada seção é idêntica: esquerda sempre imagem, direita sempre texto, tudo 100% centralizado, espaçamento uniforme. Após 3 seções, o olho cansa. Agora inverta: seção 1 imagem/esquerda, seção 2 imagem/direita, seção 3 full-width com bloco centrado. O ritmo varia; visual respira; sensação é de premium, não template. Composição com variação (left/right alternância, full-width break, whitespace macro) cria ritmo que sustenta engajamento na leitura longa.
 

@@ -2,6 +2,8 @@
 
 > **Categoria:** Hierarquia Visual · **impacto médio-alto**
 > Dois botões de igual peso dividem a atenção do visitante. Entenda por que focar em um CTA primário eleva taxa de conversão.
+>
+> 🇺🇸 [English version](../../principles/visual-hierarchy/single-focus-above-the-fold.md)
 
 Acima da dobra — os primeiros 800-1000 pixels que o visitante vê — há apenas espaço mental para uma decisão imediata. Quando a página oferece dois ou mais CTAs rivais (e.g. 'Começar agora' e 'Agendar demo' com igual destaque), ocorre o que psicólogos chamam de paradoxo da escolha: o visitante hesita, compara, e frequentemente sai sem agir. A prática orientada por dados mostra que foco em uma ação primária e clara acima da dobra aumenta conversão porque reduz fricção cognitiva.
 

@@ -2,6 +2,8 @@
 
 > **Categoria:** Clareza · **impacto máximo**
 > Títulos de aba desconectados da headline geram confusão. Como auditar alinhamento entre <title> meta e conteúdo visível.
+>
+> 🇺🇸 [English version](../../principles/clarity/tab-title-matches-promise.md)
 
 Quando um visitante chega na sua página, ele primeiro vê a aba do navegador (o <title>) antes de ver a página. Se o título da aba diz 'Software de gestão de tarefas rápido e intuitivo', mas a headline visível diz 'Aumente a produtividade com IA', existe dissonância. O visitante se pergunta: 'Espera, isso é sobre IA ou sobre tarefas?' O atrito cognitivo custa cliques. A solução é simples: a promessa começada no <title> deve continuar na headline visível. Não precisa ser idêntica — precisa ser coerente.
 

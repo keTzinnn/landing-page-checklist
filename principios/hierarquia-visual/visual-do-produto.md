@@ -2,6 +2,8 @@
 
 > **Categoria:** Hierarquia Visual · **impacto médio-alto**
 > Screenshot, demo ou diagrama real torna o valor tangível. Saiba o que mostrar e por que descrição sem imagem não convence.
+>
+> 🇺🇸 [English version](../../principles/visual-hierarchy/show-the-product.md)
 
 Um SaaS descrito assim: 'Plataforma intuitiva para gestão de projetos com colaboração em tempo real' continua abstrato. Agora mostre screenshot do app com painel limpo, usuários colaborando em card visível — subitamente o valor é tangível. Para ferramentas, SaaS e produtos digitais, o visual é prova. Não é marketing fluffy; é evidência do resultado. Visitantes que VEEM o produto convertem mais porque eliminam incerteza — 'isto é real e funciona assim'.
 

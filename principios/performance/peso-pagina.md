@@ -2,6 +2,8 @@
 
 > **Categoria:** Velocidade · **técnico**
 > Páginas mais leves carregam mais rápido em conexões lentas. Reduzir bytes em imagens, scripts e CSS melhora experiência, reduz bounce rate e aumenta conversão — especialmente em mobile.
+>
+> 🇺🇸 [English version](../../principles/speed/page-weight.md)
 
 O tamanho total de uma página — em kilobytes — determina velocidade de carregamento. Quanto mais leve, mais rápido chega ao visitante. Em redes móveis (3G/4G), cada megabyte extra custa segundos reais. Atraso de carregamento empurra o visitante para o abandono antes de ele ver a oferta — quanto mais pesada a página, maior o risco de perder quem chegou. Este princípio verifica se a página está otimizada em peso — imagens comprimidas, scripts desnecessários removidos, CSS puro sem bloat.
 

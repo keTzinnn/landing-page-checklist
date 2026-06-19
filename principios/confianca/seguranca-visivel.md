@@ -2,6 +2,8 @@
 
 > **Categoria:** Confiança · **impacto médio**
 > Visitante hesita em preencher formulário sem sinal de segurança. Como mostrar HTTPS e política de privacidade.
+>
+> 🇺🇸 [English version](../../principles/trust/visible-security.md)
 
 Quando alguém é pedido para preencher formulário e compartilhar email ou telefone, o primeiro pensamento é: 'meus dados são seguros aqui?'. Sem sinais óbvios de segurança — URL com HTTPS, ícone de cadeado, aviso sobre privacidade — a desconfiança cresce. Este princípio aborda como sinalizar segurança perto do ponto de entrada de dados e como auditar esses sinais.
 

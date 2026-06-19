@@ -2,6 +2,8 @@
 
 > **Categoria:** Conversão · **impacto alto**
 > Página longa e CTA só no final? O visitante rola, lê, e agora tem que rolar de volta. A repetição estratégica reduz atrito de conversão.
+>
+> 🇺🇸 [English version](../../principles/conversion/repeated-cta-on-long-pages.md)
 
 Página longa é padrão em landing pages: hero com oferta, seção de benefícios, casos, objeções rebatidas. Mas se o botão de ação reaparece só ao final, o visitante que rolou toda a página agora tem que escolher: voltar ao topo pra clicar, ou fechar a aba. A repetição estratégica do CTA ao longo do scroll remove essa fricção — e conversão é sobre remover fricção.
 

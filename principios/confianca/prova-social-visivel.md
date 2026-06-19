@@ -2,6 +2,8 @@
 
 > **Categoria:** Confiança · **impacto médio**
 > Por que 'ótimo produto' de anônimo fracassa. Como usar prova social específica e verificável para aumentar credibilidade.
+>
+> 🇺🇸 [English version](../../principles/trust/visible-social-proof.md)
 
 Prova social é o efeito psicológico que faz pessoas confiar mais em um produto quando veem que outros já o usam e aprovam. Em landing pages, essa prova costuma aparecer — mas frequentemente de forma tão vaga que prejudica mais do que ajuda. Um depoimento sem nome, empresa ou contexto, ou um 'número de clientes' sem base verificável, gera a impressão oposta: que a empresa está escondendo algo. Este artigo aborda por que prova social genérica esvazia a confiança e como auditar a qualidade da sua.
 

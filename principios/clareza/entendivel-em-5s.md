@@ -2,6 +2,8 @@
 
 > **Categoria:** Clareza · **impacto máximo**
 > Seu visitante não lê. Em 5-10 segundos ele já decidiu se fica ou sai. Como auditar se a página passa no teste do elevator pitch rápido.
+>
+> 🇺🇸 [English version](../../principles/clarity/understandable-in-5-seconds.md)
 
 Aquele visitante que chegou na sua landing page vindo de um anúncio tem 5 a 10 segundos de atenção bruta. Se ele não conseguir responder à pergunta 'Para que serve isso?' em um piscar de olhos, ele sai. Não é porque a página é ruim — é porque o cérebro dele está no modo scanner, não leitor. A clareza em 5 segundos não é elegância; é sobrevivência. Se você não passa no teste de legibilidade ultra-rápida, o resto da página não importa porque ninguém a lê.
 

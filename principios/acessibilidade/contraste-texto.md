@@ -2,6 +2,8 @@
 
 > **Categoria:** Acessibilidade · **base técnica**
 > Texto com baixo contraste afasta leitores e visitantes com baixa visão. Como medir, por que importa e os erros que mais custam conversão.
+>
+> 🇺🇸 [English version](../../principles/accessibility/text-contrast.md)
 
 Uma landing page precisa de muitos visitantes para escalar conversão. Mas se o texto não contrasta bem com o fundo, parte desses visitantes sai imediatamente — especialmente quem tem baixa visão, daltonismo ou está ao sol em um celular. Contraste inadequado não é detalhe de acessibilidade; é perda de receita. O padrão WCAG AA (relação de contraste 4.5:1 para texto normal, 3:1 para texto grande) não é capricho técnico: é o mínimo para que uma página seja legível por praticamente qualquer visitante.
 

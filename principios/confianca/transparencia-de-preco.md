@@ -2,6 +2,8 @@
 
 > **Categoria:** Confiança · **impacto médio**
 > Sem preço visível, visitante pensa que é caro ou que há cilada. Como mostrar preço (ou faixa) para aumentar confiança.
+>
+> 🇺🇸 [English version](../../principles/trust/price-transparency.md)
 
 Uma das objeções mais simples e poderosas é 'quanto custa?'. Quando uma landing esconde esse número — exigindo um formulário, um clique em 'fale com vendas' ou um email — está criando atrito desnecessário. O visitante assume um de dois cenários: ou o preço é tão alto que precisam filtrar prospects, ou a empresa não confía no preço o bastante para revelá-lo. Qualquer um prejudica a confiança. Este artigo aborda por que transparência de preço funciona e como auditá-la.
 

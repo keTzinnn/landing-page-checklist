@@ -2,6 +2,8 @@
 
 > **Categoria:** Conversão · **impacto alto**
 > Múltiplos CTAs competindo confundem o visitante. Quando há ambiguidade sobre o próximo passo, a conversão desaba.
+>
+> 🇺🇸 [English version](../../principles/conversion/one-primary-action-per-section.md)
 
 Visitantes em uma landing page são como motoristas em estrada: querem saber exatamente qual mão seguir. Quando uma seção oferece dois ou mais caminhos igualmente destacados — "Começar Teste Grátis", "Ver Preços", "Falar com Vendas" — o visitante hesita, processa mais tempo, e frequentemente sai da página. O CTA único por seção elimina o ruído decisório e mantém o momentum de conversão.
 

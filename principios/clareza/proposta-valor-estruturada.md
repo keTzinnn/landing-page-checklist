@@ -2,6 +2,8 @@
 
 > **Categoria:** Clareza · **impacto máximo**
 > Uma proposta de valor confusa perde o visitante. Estrutura clara (valor + hook + persona) converte; desorganização distrai. Como auditar e reparar.
+>
+> 🇺🇸 [English version](../../principles/clarity/structured-value-proposition.md)
 
 A proposta de valor não é um parágrafo: é uma máquina. Tem três engrenagens que precisam estar visíveis: (1) Como o cliente extrai valor — a ação que resolve o problema dele. (2) Um hook — um detalhe que prende, uma objeção respondida, uma razão para crer que é diferente. (3) A persona — quem específico é o público. Quando uma dessas falha, a proposta desanda. O visitante lê, entende parcialmente, e sai. A ausência de estrutura não é um erro de elegância; é de eficácia.
 

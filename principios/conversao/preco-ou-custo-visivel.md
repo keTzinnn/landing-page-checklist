@@ -2,6 +2,8 @@
 
 > **Categoria:** Conversão · **impacto alto**
 > Visitante encontra preço ou referência explícita de custo sem sair da página ou segue caminho claro até ele.
+>
+> 🇺🇸 [English version](../../principles/conversion/price-or-cost-visible.md)
 
 Quando um visitante chega a uma landing page, uma das primeiras perguntas é "quanto custa?". Deixar a resposta longe — ou pior, escondida após cadastro — cria atrito. O princípio não é "preço deve estar acima da dobra", mas sim: existe um sinal claro, na página ou imediatamente acessível, que resolve ou aponta a resposta.
 

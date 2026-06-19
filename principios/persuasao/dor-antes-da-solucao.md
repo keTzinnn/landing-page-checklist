@@ -2,6 +2,8 @@
 
 > **Categoria:** Persuasão · **impacto contextual**
 > A copy que vende começa reconhecendo a frustração antes de oferecer o remédio. Estrutura PAS: qual é a dor, por que dói, como resolver. Sem isso, a solução não tem contexto.
+>
+> 🇺🇸 [English version](../../principles/persuasion/pain-before-the-solution.md)
 
 A copy que convence começa onde o visitante está, não onde você quer que ele vá. Se a página pula direto para a solução — "Nós fazemos isso" — o visitante ainda não tem motivo pra ligar. A dor vem antes. O visitante reconhece a frustração dele na página, aí sim aceita que o seu produto resolve.
 

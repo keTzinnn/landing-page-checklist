@@ -2,6 +2,8 @@
 
 > **Categoria:** Conversão · **impacto alto**
 > Um CTA alcançável sem scroll na chegada. Posição é objetiva; eficácia contextual dependente de página e público.
+>
+> 🇺🇸 [English version](../../principles/conversion/cta-above-the-fold.md)
 
 A primeira tela (above the fold) é o momento em que o visitante decide se fica ou sai. Um botão de ação visível nessa zona permite conversão imediata, sem fricção de rolagem. A posição é mensurável; o impacto na taxa de conversão varia conforme a página, público e tipo de oferta.
 

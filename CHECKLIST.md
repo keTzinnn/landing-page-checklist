@@ -1,85 +1,87 @@
-# Checklist — UX & conversão para páginas de venda
+# Checklist — UX & conversion for landing pages
 
-Marque o que a sua página cumpre. Cada item linka para o princípio com o porquê e os erros comuns.
-Quer a versão que **audita a sua página de verdade**, com a evidência na tela? → [uxaudit.miaconecta.com.br](https://uxaudit.miaconecta.com.br?utm_source=github&utm_medium=isca&utm_campaign=checklist)
+Tick what your page does. Each item links to the principle with the why and the common mistakes.
+Want the version that **actually audits your page**, with the evidence on screen? → [uxaudit.miaconecta.com.br](https://uxaudit.miaconecta.com.br?utm_source=github&utm_medium=isca&utm_campaign=checklist)
 
-## Clareza
+> 🇧🇷 [Versão em português](CHECKLIST.pt-BR.md)
 
-- [ ] A headline articula um benefício ESPECÍFICO (número, prazo, resultado) que o público reconhece como relevante, ou apenas usa adjetivos vagos como 'melhor', 'inovador', 'avançado'? → [ver](principios/clareza/headline-comunica-valor.md)
-- [ ] A proposta de valor comunica COMO o cliente extrai valor (ex.: 'automatiza relatórios', 'reduz tempo de análise') em uma frase, ou fica abstrata na promessa? → [ver](principios/clareza/proposta-valor-estruturada.md)
-- [ ] Sem ler nada exceto a headline e a imagem/visual principal, um estranho consegue responder 'para quem isso é' e 'para que serve'? → [ver](principios/clareza/entendivel-em-5s.md)
-- [ ] A página nomeia explicitamente a persona/segmento ('Para CTOs...', 'Se você é agência...', 'Para freelancers que...'), ou fala de 'empresas' ou 'usuários' de forma genérica? → [ver](principios/clareza/publico-alvo-explicito.md)
-- [ ] A headline e a primeira seção de copy usam palavras que um estranho do ramo entenderia, ou existem 3+ termos técnicos não-explicados? → [ver](principios/clareza/ausencia-de-jargao.md)
-- [ ] O <title> da aba (meta title) e a headline visível comunicam a mesma promessa central, ou refletem aspectos diferentes do produto? → [ver](principios/clareza/match-titulo-pagina.md)
+## Clarity
 
-## Conversão
+- [ ] Do the headline and first block of copy use words a stranger to your industry would understand, or are there 3+ unexplained technical terms? → [view](principles/clarity/no-technical-jargon.md)
+- [ ] Reading nothing but the headline and the main visual, can a stranger answer 'who is this for' and 'what does it do'? → [view](principles/clarity/understandable-in-5-seconds.md)
+- [ ] Does the headline state a SPECIFIC benefit (number, timeframe, outcome) your audience recognizes as relevant, or does it just lean on vague adjectives like 'better,' 'innovative,' 'advanced'? → [view](principles/clarity/headline-communicates-value.md)
+- [ ] Do the tab title (meta title) and the visible headline communicate the same core promise, or do they reflect different aspects of the product? → [view](principles/clarity/tab-title-matches-promise.md)
+- [ ] Does the value proposition communicate HOW the customer gets value (e.g. 'automates reports,' 'cuts analysis time') in a single sentence, or does it stay abstract? → [view](principles/clarity/structured-value-proposition.md)
+- [ ] Does the page name the persona/segment explicitly ('For CTOs...', 'If you run an agency...', 'For freelancers who...'), or does it talk about 'companies' or 'users' generically? → [view](principles/clarity/explicit-target-audience.md)
 
-- [ ] Existe um botão de ação primária visível na primeira tela, sem scroll (validado contra altura padrão da primeira tela). → [ver](principios/conversao/cta-acima-da-dobra.md)
-- [ ] O texto do botão nomeia um benefício ou resultado, não um termo genérico (Enviar, Continuar, OK)? → [ver](principios/conversao/copy-cta-orientada-acao.md)
-- [ ] Você pede nome completo quando só precisa do nome? Ou empresa quando poderia vir após conversão? → [ver](principios/conversao/formulario-minimo.md)
-- [ ] A página permite envio de formulário/conversão sem que seja obrigatório criar uma conta simultaneamente? → [ver](principios/conversao/sem-conta-forcada.md)
-- [ ] O CTA principal aparece no hero? → [ver](principios/conversao/cta-repetido-em-pagina-longa.md)
-- [ ] Cada seção (benefícios, prova social, preços, FAQ) possui exatamente UM botão ou link de ação visual destacado como primário? → [ver](principios/conversao/cta-unico-por-secao.md)
-- [ ] Todo campo obrigatório está marcado visualmente (ex.: asterisco, cor, label) E indicado semanticamente na estrutura da página? → [ver](principios/conversao/prevencao-de-erro-formulario.md)
-- [ ] Há um menu de navegação horizontal ou vertical visível acima da dobra que oferece links para seções, blog, sobre ou contato que não são a ação primária? → [ver](principios/conversao/sem-distracao-de-saida.md)
-- [ ] Nenhum overlay (modal, banner, pop-up) cobre nenhuma parte do CTA principal quando o visitante chega (primeiros 3 segundos)? → [ver](principios/conversao/sem-interstitial-bloqueante.md)
-- [ ] Preço, faixa de preço ou modelo de cobrança aparece acima da linha de dobra ou em seção nomeada explicitamente ('Preços', 'Planos', 'Valores')? → [ver](principios/conversao/preco-ou-custo-visivel.md)
-- [ ] Você tem Google Analytics 4 (GA4), Google Tag Manager (GTM), Meta Pixel ou similar instalado e ativo na página? → [ver](principios/conversao/mensuracao-instalada.md)
+## Conversion
 
-## Hierarquia Visual
+- [ ] Does the button name a benefit or outcome rather than a generic word (Submit, Continue, OK)? → [view](principles/conversion/action-oriented-cta-copy.md)
+- [ ] Is there a primary action button visible on the first screen, without scrolling (checked against a standard first-screen height)? → [view](principles/conversion/cta-above-the-fold.md)
+- [ ] Does the primary CTA appear in the hero? → [view](principles/conversion/repeated-cta-on-long-pages.md)
+- [ ] Does each section (benefits, social proof, pricing, FAQ) have exactly ONE button or link styled as the primary action? → [view](principles/conversion/one-primary-action-per-section.md)
+- [ ] Are you asking for a full name when first name alone would do? Or for company when it could come after conversion? → [view](principles/conversion/minimal-form.md)
+- [ ] Do you have GA4, Google Tag Manager, Meta Pixel, or similar installed and active on the page? → [view](principles/conversion/measurement-installed.md)
+- [ ] Does a price, price range, or billing model appear above the fold or in an explicitly named section ('Pricing,' 'Plans')? → [view](principles/conversion/price-or-cost-visible.md)
+- [ ] Is every required field marked visually (asterisk, color, label) AND indicated semantically in the page structure? → [view](principles/conversion/form-error-prevention.md)
+- [ ] Does the page allow form submission/conversion without requiring account creation at the same time? → [view](principles/conversion/no-forced-account.md)
+- [ ] Is there a horizontal or vertical nav menu visible above the fold offering links to sections, blog, about, or contact that aren't the primary action? → [view](principles/conversion/no-exit-distractions.md)
+- [ ] Does no overlay (modal, banner, pop-up) cover any part of the primary CTA when the visitor arrives (first 3 seconds)? → [view](principles/conversion/no-blocking-interstitial.md)
 
-- [ ] O botão primário é visivelmente maior que o texto do corpo (escala 1.5-2x)? → [ver](principios/hierarquia-visual/cta-primario-destacado.md)
-- [ ] Há apenas um botão/CTA de tamanho e contraste primários acima da dobra? → [ver](principios/hierarquia-visual/foco-unico-acima-da-dobra.md)
-- [ ] Cada seção tem um subtítulo descritivo (não vago)? → [ver](principios/hierarquia-visual/escaneabilidade.md)
-- [ ] Há um elemento visual (imagem, seta, mudança de background) que aponta para o CTA primário? → [ver](principios/hierarquia-visual/direcao-visual-para-cta.md)
-- [ ] A dobra tem no máximo 3-4 blocos de conteúdo visual (headline, imagem/video, CTA, suporte)? → [ver](principios/hierarquia-visual/densidade-acima-da-dobra.md)
-- [ ] A página mostra ao menos um screenshot ou preview real do produto/interface? → [ver](principios/hierarquia-visual/visual-do-produto.md)
-- [ ] Headlines são visivelmente maiores que subtítulos (escala mínima 1.5x)? → [ver](principios/hierarquia-visual/tipografia-hierarquica.md)
-- [ ] Não há mais de 2-3 seções sequenciais com o mesmo layout (esquerda/direita alternância)? → [ver](principios/hierarquia-visual/composicao-e-ritmo.md)
+## Visual Hierarchy
 
-## Confiança
+- [ ] No more than 2-3 consecutive sections share the same layout (alternating left/right)? → [view](principles/visual-hierarchy/composition-and-rhythm.md)
+- [ ] Is the primary button visibly larger than body text (about 1.5-2x)? → [view](principles/visual-hierarchy/prominent-primary-cta.md)
+- [ ] Does the fold hold at most 3-4 visual content blocks (headline, image/video, CTA, supporting element)? → [view](principles/visual-hierarchy/uncluttered-above-the-fold.md)
+- [ ] Is there a visual element (image, arrow, background change) that points to the primary CTA? → [view](principles/visual-hierarchy/visual-direction-toward-the-cta.md)
+- [ ] Does each section have a descriptive subhead (not a vague one)? → [view](principles/visual-hierarchy/scannability.md)
+- [ ] Is there just one button/CTA at primary size and contrast above the fold? → [view](principles/visual-hierarchy/single-focus-above-the-fold.md)
+- [ ] Are headlines visibly larger than subheads (at least a 1.5x scale)? → [view](principles/visual-hierarchy/typographic-hierarchy.md)
+- [ ] Does the page show at least one real screenshot or preview of the product/interface? → [view](principles/visual-hierarchy/show-the-product.md)
 
-- [ ] Todo depoimento identificável tem nome completo, cargo e/ou empresa verificável? → [ver](principios/confianca/prova-social-visivel.md)
-- [ ] A página deixa explícita qual é a objeção/risco principal que o visitante tem (econômico, de tempo, de ajuste)? → [ver](principios/confianca/reducao-de-risco.md)
-- [ ] Todo depoimento tem nome completo + pelo menos um identificador verificável (cargo, empresa, perfil ou foto real)? → [ver](principios/confianca/prova-social-especifica.md)
-- [ ] O nome legal da empresa aparece visível em algum ponto (hero, footer, about)? → [ver](principios/confianca/identidade-e-contato.md)
-- [ ] Se há oferta/produto, o preço (exato ou faixa) é visível acima da dobra ou em seção dedicada 'Preços'? → [ver](principios/confianca/transparencia-de-preco.md)
-- [ ] A página é servida em HTTPS (não HTTP)? → [ver](principios/confianca/seguranca-visivel.md)
-- [ ] Existe um link visível para 'Política de Privacidade' (ou 'Termos e Privacidade') na página? → [ver](principios/confianca/politica-privacidade-acessivel.md)
-- [ ] Há algum depoimento ou prova social visível na primeira tela mesmo do CTA primário (não exigindo scroll)? → [ver](principios/confianca/prova-social-no-ponto-de-decisao.md)
+## Trust
 
-## Persuasão
+- [ ] Does the company's legal name appear somewhere visible (hero, footer, or about section)? → [view](principles/trust/identity-and-contact.md)
+- [ ] Is there a visible link to a 'Privacy Policy' (or 'Terms & Privacy') on the page? → [view](principles/trust/accessible-privacy-policy.md)
+- [ ] Does every testimonial have a full name plus at least one verifiable identifier (role, company, profile, or a real photo)? → [view](principles/trust/specific-social-proof.md)
+- [ ] Is there a testimonial or social proof visible in the same view as the primary CTA (no scrolling required)? → [view](principles/trust/social-proof-at-the-decision-point.md)
+- [ ] Does every identifiable testimonial have a full name, role, and/or a verifiable company? → [view](principles/trust/visible-social-proof.md)
+- [ ] Does the page make clear what the visitor's main objection or risk is (money, time, or fit)? → [view](principles/trust/risk-reduction.md)
+- [ ] Is the page served over HTTPS (not HTTP)? → [view](principles/trust/visible-security.md)
+- [ ] If there's an offer or product, is the price (exact or a range) visible above the fold or in a dedicated 'Pricing' section? → [view](principles/trust/price-transparency.md)
 
-- [ ] A copy acima da dobra nomeia um problema que o visitante reconhece como seu — ou é genérica demais ('melhorar tudo')? → [ver](principios/persuasao/dor-antes-da-solucao.md)
-- [ ] A página contém ao menos um benefício em número, prazo ou métrica clara (ex.: 'reduz em 40%', 'em 2 minutos', 'economiza 8 horas')? → [ver](principios/persuasao/beneficio-tangivel-quantificado.md)
-- [ ] Sua página exibe clientes/marcas reconhecidas? Logos, nomes ou case studies de nomes que o visitante conhece? → [ver](principios/persuasao/autoridade-demonstrada.md)
-- [ ] Se diz 'últimas X unidades/vagas', esse número muda conforme vendas ou inscrições reais? → [ver](principios/persuasao/escassez-ou-urgencia-legitima.md)
-- [ ] Há uma âncora de preço clara na primeira visualização (plano anterior, concorrente, ou 'preço recomendado')? → [ver](principios/persuasao/ancoragem-de-valor.md)
-- [ ] A página oferece algo concreto grátis ANTES de pedir e-mail ou cadastro (checklist, diagnóstico, ferramenta, amostra, relatório)? → [ver](principios/persuasao/reciprocidade-oferta-de-valor.md)
-- [ ] A página oferece um primeiro passo opcional e de baixo atrito antes de qualquer conversão pesada (inscrição de newsletter, acesso a guia/template, trial sem cartão)? → [ver](principios/persuasao/compromisso-progressivo.md)
+## Persuasion
 
-## Conteúdo
+- [ ] Is there a clear price anchor in the first view (a previous price, a competitor, or a "recommended" figure)? → [view](principles/persuasion/value-anchoring.md)
+- [ ] Does your page show recognizable clients or brands? Logos, names, or case studies of names the visitor knows? → [view](principles/persuasion/demonstrated-authority.md)
+- [ ] Does the page carry at least one benefit as a number, time frame, or clear metric (e.g. "cuts it by 40%", "in 2 minutes", "saves 8 hours")? → [view](principles/persuasion/tangible-quantified-benefit.md)
+- [ ] Does the page offer an optional, low-friction first step before any heavy conversion (newsletter signup, access to a guide or template, a no-card trial)? → [view](principles/persuasion/progressive-commitment.md)
+- [ ] Does the copy above the fold name a problem the visitor recognizes as their own — or is it too generic ("make everything better")? → [view](principles/persuasion/pain-before-the-solution.md)
+- [ ] If you say "last X units/spots", does that number actually move with real sales or signups? → [view](principles/persuasion/legitimate-scarcity-or-urgency.md)
+- [ ] Does the page offer something concrete for free BEFORE asking for an email or signup (checklist, diagnosis, tool, sample, report)? → [view](principles/persuasion/reciprocity-value-offer.md)
 
-- [ ] Cada feature listada tem ao lado (ou no parágrafo antes) a resposta 'ganho pro usuário'? Exemplo: 'integração com Slack → você avisa o time em tempo real, sem sair da ferramenta'. → [ver](principios/conteudo/beneficios-sobre-features.md)
-- [ ] A página enuncia explicitamente a objeção maior (ex: 'É caro?' / 'Não vai funcionar pro meu negócio?' / 'Qual é o risco?') e responde com evidência visível? → [ver](principios/conteudo/tratamento-de-objecoes.md)
-- [ ] A headline anuncia um benefício, resultado ou solução específico? → [ver](principios/conteudo/consistencia-da-promessa.md)
-- [ ] As perguntas da FAQ falam com a linguagem real do seu visitante — ou usam jargão da empresa? → [ver](principios/conteudo/faq-presente.md)
-- [ ] A fonte principal tem tamanho legível em telas (não excessivamente pequena)? → [ver](principios/conteudo/legibilidade.md)
-- [ ] A headline usa problemas ou resultados que o cliente já articula (não termos da empresa)? → [ver](principios/conteudo/voz-do-cliente.md)
-- [ ] Os passos estão numerados ou claramente separados (1, 2, 3) acima da dobra ou em seção dedicada? → [ver](principios/conteudo/plano-de-passos.md)
+## Content
 
-## Velocidade
+- [ ] Does every feature you list sit next to (or just before) its "so what for the user" answer? For example: "Slack integration → ping the team in real time without leaving the tool." → [view](principles/content/benefits-over-features.md)
+- [ ] Does the headline announce a specific benefit, result or solution? → [view](principles/content/promise-consistency.md)
+- [ ] Are the questions phrased in your visitor's real language, or in company jargon? → [view](principles/content/faq-in-the-right-place.md)
+- [ ] Is the body font large enough to read comfortably on screen (not cramped)? → [view](principles/content/readability.md)
+- [ ] Are the steps numbered or clearly separated (1, 2, 3) above the fold or in a dedicated section? → [view](principles/content/how-it-works-steps.md)
+- [ ] Does the page name the biggest objection out loud (e.g. "Is it expensive?" / "Will it work for my business?" / "What's the risk?") and answer it with visible evidence? → [view](principles/content/objection-handling.md)
+- [ ] Does the headline use problems or results the customer already articulates (not company terms)? → [view](principles/content/voice-of-customer.md)
 
-- [ ] A página responde ao interagir dentro de 1 segundo? → [ver](principios/performance/tempo-carregamento.md)
-- [ ] O tamanho total da página (HTML, CSS, JS, imagens, fontes) fica entre 1-2 MB idealmente, máximo 3 MB em desktop, máximo 1.5 MB em mobile? → [ver](principios/performance/peso-pagina.md)
+## Speed
 
-## Acessibilidade
+- [ ] Is the total page size (HTML, CSS, JS, images, fonts) ideally 1–2 MB — capped at 3 MB on desktop and 1.5 MB on mobile? → [view](principles/speed/page-weight.md)
+- [ ] Does the page respond to interaction within 1 second? → [view](principles/speed/fast-loading-page.md)
 
-- [ ] Todo texto do corpo tem contraste de pelo menos 4.5:1 contra o fundo (WCAG AA)? → [ver](principios/acessibilidade/contraste-texto.md)
-- [ ] Toda imagem informativa tem um atributo alt (não vazio ou genérico)? → [ver](principios/acessibilidade/alt-em-imagens.md)
-- [ ] Todo campo de entrada (texto, email, phone, select) tem um elemento <label> visível? → [ver](principios/acessibilidade/labels-em-formularios.md)
-- [ ] Começando na página, Tab consegue alcançar TODOS os elementos interativos (botões, links, inputs, dropdowns)? → [ver](principios/acessibilidade/navegacao-teclado.md)
+## Accessibility
+
+- [ ] Does every informative image have an alt attribute that isn't empty or generic? → [view](principles/accessibility/image-alt-text.md)
+- [ ] Does all body text hit at least 4.5:1 contrast against its background (WCAG AA)? → [view](principles/accessibility/text-contrast.md)
+- [ ] Does every input field (text, email, phone, select) have a visible <label> element? → [view](principles/accessibility/form-field-labels.md)
+- [ ] Starting from the top, can Tab reach EVERY interactive element (buttons, links, inputs, dropdowns)? → [view](principles/accessibility/keyboard-navigation.md)
 
 ---
 
-<sub>**landing-page-checklist** · conteúdo sob [CC BY-SA 4.0](LICENSE) · mantido por [UX Audit](https://uxaudit.miaconecta.com.br)</sub>
+<sub>**landing-page-checklist** · content under [CC BY-SA 4.0](LICENSE) · maintained by [UX Audit](https://uxaudit.miaconecta.com.br)</sub>

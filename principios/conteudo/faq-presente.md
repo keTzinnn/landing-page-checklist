@@ -2,6 +2,8 @@
 
 > **Categoria:** Conteúdo · **impacto médio-baixo**
 > FAQ resolve dúvidas comuns sem o visitante sair da página. O que é FAQ efetiva, como verificar a sua e quando é realmente necessária.
+>
+> 🇺🇸 [English version](../../principles/content/faq-in-the-right-place.md)
 
 FAQ funciona quando responde a dúvidas de verdade que travam a decisão. Um visitante prestes a se converter tira dúvida numa FAQ bem colocada — e sai da página fazendo o que você quer. Uma FAQ com respostas vagas ou perguntas que ninguém tem? Ocupa espaço e não muda nada. A presença não importa; o que importa é se as respostas resolvem o bloqueio.
 

@@ -2,6 +2,8 @@
 
 > **Categoria:** Conversão · **impacto alto**
 > Acima da dobra não há links de navegação/menu nem modais que tirem o foco da conversão.
+>
+> 🇺🇸 [English version](../../principles/conversion/no-exit-distractions.md)
 
 Uma landing page bem-feita não compete com ela mesma. Quando o visitante chega acima da dobra — a primeira tela que ele vê sem scroll — precisa encontrar uma narrativa clara e um caminho único para a ação, não múltiplas rotas de fuga (menus de navegação, links secundários, abas ou modais). Landing pages que se comportam como sites perdem conversão simplesmente porque dividem a atenção.
 

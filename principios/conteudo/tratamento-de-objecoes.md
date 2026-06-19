@@ -2,6 +2,8 @@
 
 > **Categoria:** Conteúdo · **impacto médio-baixo**
 > Artigo "Tratamento de Objeções" — crítica editorial limpeza conforme schema ARTICLE, corrigindo violações de regras enquanto preserva conteúdo de qualidade.
+>
+> 🇺🇸 [English version](../../principles/content/objection-handling.md)
 
 A maioria das landing pages deixa o leitor pensar "não é pra mim" ou "é caro" sem nunca dizer explicitamente por quê. Copy que antecipa objeções não as esconde — as responde antes da pergunta surgir. Isso não é truque; é design de informação que reduz atrito cognitivo e mantém a atenção no objetivo.
 
